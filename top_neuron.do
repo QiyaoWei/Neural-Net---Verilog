@@ -1,3 +1,5 @@
+#Simulation file, used in Modelsim
+
 vlib work
 vlog top_neuron.v
 vsim -L altera_mf_ver top_neuron
